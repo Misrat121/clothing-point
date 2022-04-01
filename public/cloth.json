@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "1",
+        "index" : "",
+        "picture" : "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9uZyUyMGRyZXNzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "2",
+        "index" : "",
+        "picture" : "https://cdn.shopify.com/s/files/1/0011/9783/4252/products/20_375a8763-f5d7-4184-a352-4523ef713733.jpg?v=1576267132",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "3",
+        "index" : "",
+        "picture" : "https://www.collinsdictionary.com/images/full/dress_31690953_1000.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "4",
+        "index" : "",
+        "picture" : "https://media.istockphoto.com/photos/flowery-evase-bateau-yellow-dress-picture-id178851955?k=20&m=178851955&s=612x612&w=0&h=PbB6SOjyZNIzTYr3qC7IY-qn1tsWWHyojRfs4XB8WhM=",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "5",
+        "index" : "",
+        "picture" : "https://m.media-amazon.com/images/I/61YXZmuiJsL._AC_UY550_.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "6",
+        "index" : "",
+        "picture" : "https://assets.vogue.com/photos/60e4c06460eb32a68f16c1cb/master/w_1280%2Cc_limit/slide_19.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "7",
+        "index" : "",
+        "picture" : "https://cdn.shopify.com/s/files/1/0259/5448/4284/products/SKIMS-LOUNGEWEAR-AP-SLP-0725-ONX-FL_grande.jpg?v=1624311597",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "8",
+        "index" : "",
+        "picture" : "https://ae01.alicdn.com/kf/HTB1UEO1aQomBKNjSZFqq6xtqVXa1/Women-Summer-Floral-Dress-50s-Vintage-Casual-Elegant-Print-O-Neck-Party-Work-Office-Dress-Retro.jpg_Q90.jpg_.webp",
+        "name" : "",
+        "price": "",
+        "gender" : ""
+    },
+    {
+        "_id": "9",
+        "index" : "",
+        "picture" : "https://pyxis.nymag.com/v1/imgs/853/030/fa9bfcf1f90e2fc68cd8a6fddb282fd1b6-men-packaged-dry-crew-neck.2x.rsquare.w600.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : "male"
+    },
+    {
+        "_id": "10",
+        "index" : "",
+        "picture" : "https://media.gq-magazine.co.uk/photos/5f199835c57ab4b7bbdba74b/master/w_1459,h_973,c_limit/WHITETSHIRTUPDATE23_H&M.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : "male"
+    },
+    {
+        "_id": "11",
+        "index" : "",
+        "picture" : "https://assets.vogue.com/photos/605a74a62180757d30e71f41/master/w_1280%2Cc_limit/slide_26.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : "male"
+    },
+    {
+        "_id": "12",
+        "index" : "",
+        "picture" : "https://m.media-amazon.com/images/I/61etE0tKyGL._AC_UL320_.jpg",
+        "name" : "",
+        "price": "",
+        "gender" : "male"
+    }
+]
