@@ -1,6 +1,8 @@
 .cloth{
     height: 400px;
+    border: 1px solid lightslategray;
+    border-radius: 10px;
 }
 .cloth img{
-    height: 250px;
+    height: 220px;
 }

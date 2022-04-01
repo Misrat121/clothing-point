@@ -2,6 +2,7 @@ import React from 'react';
 import './Cloth.css'
 
 const Cloth = (props) => {
+const {handleAddToCart, cloth} = props;
     const {name, picture, price, gender} = props.cloth;
     return (
         <div className='cloth'>
@@ -9,7 +10,7 @@ const Cloth = (props) => {
             <h4>Name: {name}</h4>
             <p>Price : $ {price}</p>
             <p>Gender: {gender}</p>
-            <button> Add to Cart</button>
+            <button onClick={()=> handleAddToCart (cloth)}>Add to Cart</button>
         </div>
     );
 };
