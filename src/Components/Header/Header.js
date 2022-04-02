@@ -8,8 +8,8 @@ const Header = () => {
             <h2>welcome to clothing point</h2>
             <nav>
             <Link to ="/home">Home</Link>
-            <Link to="orderreview">Order Review</Link>
-
+            <Link to="/orderreview">Order Review</Link>
+           <Link to="/grand">Grand</Link>
             </nav>
         </div>
     );

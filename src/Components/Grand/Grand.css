@@ -1,0 +1,9 @@
+.grand, .grand div{
+    border: 2px solid goldenrod;
+    margin: 5px 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.gran p{
+    margin: 5px 10px;
+}
